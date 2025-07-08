@@ -77,7 +77,7 @@ Customer churn is a critical issue for banks and financial institutions. By leve
 
 - Precision / Recall (optional)
 
-📌 Project Structure
+## 📌 Project Structure
 ```
 churn-ann/
 ├── Churn_Modelling.csv                # Dataset
