@@ -59,7 +59,7 @@ Customer churn is a critical issue for banks and financial institutions. By leve
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/churn-ann.git
+   git clone https://github.com/your-username/Customer-Churn-Prediction-using-ANN.git
 
 2. Navigate into the project directory and run the notebook:
    ```
