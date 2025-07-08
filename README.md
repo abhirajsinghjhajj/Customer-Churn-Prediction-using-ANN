@@ -71,11 +71,11 @@ Customer churn is a critical issue for banks and financial institutions. By leve
 
 📈 Sample Output
 
-Confusion Matrix
+-Confusion Matrix
 
-Accuracy Score
+-Accuracy Score
 
-Precision / Recall (optional)
+-Precision / Recall (optional)
 
 📌 Project Structure
 ```
