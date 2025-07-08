@@ -69,13 +69,13 @@ Customer churn is a critical issue for banks and financial institutions. By leve
    
 📁 Make sure Churn_Modelling.csv is in the same directory as the notebook.
 
-📈 Sample Output
+##📈 Sample Output
 
--Confusion Matrix
+- Confusion Matrix
 
--Accuracy Score
+- Accuracy Score
 
--Precision / Recall (optional)
+- Precision / Recall (optional)
 
 📌 Project Structure
 ```
